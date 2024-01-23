@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nikodem Goławski!
+# 👋 Hi there, I'm Nikodem!
 
 ### 🌍 About Me
 - 🎓 19-year-old IT enthusiast studying at a technical school in Siedlce, Poland.
