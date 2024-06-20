@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Nikodem!
 
 ### 🌍 About Me
-- 🎓 19-year-old IT enthusiast studying at a technical school in Siedlce, Poland.
+- 🎓 20-year-old IT enthusiast, fisnished studying at a technical school in Siedlce, Poland.
 - 💻 Passionately learning web development and other software-related skills.
 - 🚀 Aspiring to be a Web Developer in the near future.
 - 🎯 Determined to reach my goals and make a positive impact.
