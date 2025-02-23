@@ -1,13 +1,14 @@
 # 👋 Hi there, I'm Nikodem!
 
 ### 🌍 About Me
-- 🎓 20-year-old IT enthusiast, fisnished studying at a technical school in Siedlce, Poland.
+- 🎓 20-year-old IT enthusiast, curently studying at Lublin University of Technology, Poland.
+- 🎓 Finished studying at a technical middle school in Siedlce, Poland - IT technician.
 - 💻 Passionately learning web development and other software-related skills.
-- 🚀 Aspiring to be a Web Developer in the near future.
+- 🚀 Aspiring to be a software engineer in the near future.
 - 🎯 Determined to reach my goals and make a positive impact.
 
 ### 🚀 Favorite Technologies
-- 📝 **Languages**: TypeScript
+- 📝 **Languages**: TypeScript, Java, Python
 - ⚛️ **Libraries & Frameworks**: React, Next.js
 - 🎨 **Styling**: Tailwind
 - 🛠️ **Database & ORM**: MySQL, Prisma
