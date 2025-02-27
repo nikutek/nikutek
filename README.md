@@ -4,14 +4,14 @@
 - 🎓 20-year-old IT enthusiast, curently studying at Lublin University of Technology, Poland.
 - 🎓 Finished studying at a technical middle school in Siedlce, Poland - IT technician.
 - 💻 Passionately learning web development and other software-related skills.
-- 🚀 Aspiring to be a software engineer in the near future.
+- 🚀 Aspiring to be a software engineer in the future.
 - 🎯 Determined to reach my goals and make a positive impact.
 
 ### 🚀 Favorite Technologies
-- 📝 **Languages**: TypeScript, Java, Python
+- 📝 **Languages**: TypeScript, Java, Python, C, C++
 - ⚛️ **Libraries & Frameworks**: React, Next.js
 - 🎨 **Styling**: Tailwind
-- 🛠️ **Database & ORM**: MySQL, Prisma
+- 🛠️ **Database & ORM**: MySQL, Prisma, Access
 - 🔄 **Version Control**: Git
 - 🌐 **API Development**: Rest API's
 
