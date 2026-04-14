@@ -10,7 +10,7 @@ CS student at Lublin University of Technology · Member of the ATLAS ML Scientif
 ---
 
 ### Projects
-
+**[RailGuard](https://github.com/nikutek/civil42_koleje)** — [live ↗](https://civil42-koleje.onrender.com/) · railway infrastructure sabotage risk analysis system built at Civil42 hackathon in 24 hours. Scores railway segments using OSM data and AI satellite image analysis (Qwen 35B vision model). Stack: FastAPI · React · Leaflet · SQLite · OpenStreetMap
 **[ATLAS](https://github.com/nikutek/ATLAS)** — aerial image classification with YOLOv11 and a custom PyTorch CNN, benchmarked on the SkyView Kaggle dataset  
 **[Chess Blog](https://github.com/nikutek/chess_blog_back)** — full-stack app: Spring Boot REST API + Next.js frontend, JWT auth, Docker Compose  
 **[Kazimierska](https://github.com/nikutek/Kazimierska)** — portfolio built my sculptor dad. Made with with Next.js, Supabase and Tailwind, live at kazimierska.com
